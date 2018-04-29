@@ -1,0 +1,14 @@
+body {
+    font-family: 'Varela Round', sans-serif;
+}
+#search {
+    text-align: center;
+    margin-top: 100px;
+}
+#search h1{
+    text-align: center;
+    border: 2px solid blue;
+}
+img {
+    border: 2px solid black;
+}
